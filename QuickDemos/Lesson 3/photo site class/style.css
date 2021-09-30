@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 h2 {
     font-family: Raleway;
     text-transform: uppercase;
@@ -13,3 +14,15 @@ img {
     margin: 1.66%;
     float: left;
 }
+=======
+h2{
+    font-family: Raleway;
+    text-transform: uppercase;
+    margin: 1.6%;
+    border-bottom: 10px solid rgb(235, 89, 235);
+    width: 30%;
+    /*border-width: 30%;*/
+    padding-bottom: 20px;
+    font-display:rgb(255, 132, 255)
+}
+>>>>>>> Stashed changes
