@@ -19,4 +19,3 @@ bodyColor.style.background = 'grey';
 
 var upperCase = document.getElementsByTagName('li')[3];
 upperCase.style.textTransform = "uppercase";
-console.log(upperCase.innerHTML);
