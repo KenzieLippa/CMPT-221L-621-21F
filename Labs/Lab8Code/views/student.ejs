@@ -1,0 +1,16 @@
+<%-include('./partials/header.ejs') %>
+
+<h1>If you are a Student type here</h1>
+<h2>If you are not a student do not type</h2>
+<h3>if you try to type and are not a student</h3>
+<h4>we will hunt you down, find you, search through your hard drive, and lock your computer with vim</h4>
+<h5>if you don't quit vim on the first try your computer will explode</h5>
+<h6>so only use if you are a student, you have been warned...</h6>
+
+
+<form action = "/student/student" method="post">
+<input type = "text" name = "student[firstName]" id = "">
+<input type = "text" name = "student[lastName]" id = "">
+<input type = "submit" value = "Send to the void">
+</form>
+<%- include('./partials/footer.ejs') %>
