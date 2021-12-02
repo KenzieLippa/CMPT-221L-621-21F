@@ -12,3 +12,7 @@ this will allow the site to collect email addresses and ping mail servers. You h
 5th is to backup and go live
 take a fullbackup unless something is lost or corrupted, then you cross your fingers and hope for the best.
 dont forget to write your keywords in white text all over the page so google can find you. ;P
+
+
+if i were to pick what i would use to make a website, now that i know how react works i would use that, it's pretty good.
+mongoDB for DB some js and lots of css. I would like to learn bootstrap as well but im not sure how useful that is.
